@@ -2,7 +2,8 @@
 
 This repo contains experiments to test the T-LMPROJ model. This is a transductive transfer learning model.
 
-The implementation of the model can be found in another repository: 
+The implementation of the models can be found in another repository: https://github.com/sderooij/tensorlibrary/releases/tag/v0.0.4 , which can be installed using pip.
+
 
 This repository also contains an implementation of the original LMPROJ model (using cvxpy).
 
